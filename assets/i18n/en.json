@@ -120,6 +120,13 @@
     "footer":  {
                    "copy":  "Â© 1994 - 2022 Adel Berhan"
                },
+<<<<<<< HEAD
+=======
+    "messages":  {
+                     "cartAddedTitle":  "Success",
+                     "cartAddedDetail":  "Product added to cart"
+                 },
+>>>>>>> 3f46f9e (update ui)
     "categoryNames":  {
                           "beauty":  "Beauty",
                           "books":  "Books",
@@ -134,4 +141,9 @@
                           "sports":  "Sports",
                           "toys":  "Toys"
                       }
+<<<<<<< HEAD
 }
+=======
+}
+
+>>>>>>> 3f46f9e (update ui)

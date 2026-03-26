@@ -77,7 +77,10 @@ file header for details.
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 3f46f9e (update ui)
 @ngx-translate/core
 MIT
 Copyright (c) 2018 Olivier Combe
@@ -102,7 +105,10 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
+<<<<<<< HEAD
 >>>>>>> 3fbc0c7 (update banner in landing page for phones)
+=======
+>>>>>>> 3f46f9e (update ui)
 animate.css
 MIT
 The MIT License (MIT)
@@ -170,6 +176,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ngx-spinner
 MIT
 The MIT License (MIT)
@@ -196,6 +203,8 @@ SOFTWARE.
 
 =======
 >>>>>>> 3fbc0c7 (update banner in landing page for phones)
+=======
+>>>>>>> 3f46f9e (update ui)
 ngx-stripe
 MIT
 **MIT License**
@@ -222,11 +231,14 @@ SOFTWARE.
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ngx-ui-loader
 MIT
 
 =======
 >>>>>>> 3fbc0c7 (update banner in landing page for phones)
+=======
+>>>>>>> 3f46f9e (update ui)
 primeflex
 MIT
 The MIT License (MIT)
@@ -268,6 +280,7 @@ primeng
 MIT
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 quill
 BSD-3-Clause
 Copyright (c) 2014, Jason Chen
@@ -304,6 +317,8 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 =======
 >>>>>>> 3fbc0c7 (update banner in landing page for phones)
+=======
+>>>>>>> 3f46f9e (update ui)
 rxjs
 Apache-2.0
                                Apache License
