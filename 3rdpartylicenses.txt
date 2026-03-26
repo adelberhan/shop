@@ -76,6 +76,33 @@ https://github.com/cartant/rxjs-etc by Nicholas Jamieson, MIT licensed. See the
 file header for details.
 
 
+<<<<<<< HEAD
+=======
+@ngx-translate/core
+MIT
+Copyright (c) 2018 Olivier Combe
+Copyright (c) 2024 Andreas Löw / CodeAndWeb GmbH
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+@ngx-translate/http-loader
+MIT
+Copyright (c) 2018 Olivier Combe
+Copyright (c) 2024 Andreas Löw / CodeAndWeb GmbH
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+>>>>>>> 3fbc0c7 (update banner in landing page for phones)
 animate.css
 MIT
 The MIT License (MIT)
@@ -142,6 +169,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 
+<<<<<<< HEAD
 ngx-spinner
 MIT
 The MIT License (MIT)
@@ -166,6 +194,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
+=======
+>>>>>>> 3fbc0c7 (update banner in landing page for phones)
 ngx-stripe
 MIT
 **MIT License**
@@ -191,9 +221,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
+<<<<<<< HEAD
 ngx-ui-loader
 MIT
 
+=======
+>>>>>>> 3fbc0c7 (update banner in landing page for phones)
 primeflex
 MIT
 The MIT License (MIT)
@@ -234,6 +267,7 @@ SOFTWARE.
 primeng
 MIT
 
+<<<<<<< HEAD
 quill
 BSD-3-Clause
 Copyright (c) 2014, Jason Chen
@@ -268,6 +302,8 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
+=======
+>>>>>>> 3fbc0c7 (update banner in landing page for phones)
 rxjs
 Apache-2.0
                                Apache License
